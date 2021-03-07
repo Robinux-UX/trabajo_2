@@ -1,0 +1,18 @@
+{
+  "name": "nodexpress",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RobinHood-hub"
+  },
+  "author": "robinson robinson.espejo.1998@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
